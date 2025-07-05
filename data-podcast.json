@@ -1,0 +1,137 @@
+[
+    {
+      "industry": "Tech & SaaS",
+      "audienceSize": [5000, 100000],
+      "engagementRate": [0.03, 0.07],
+      "conversionRateToLead": [0.03, 0.10],
+      "leadToCustomerRate": [0.05, 0.15],
+      "customerValue": [500, 5000],
+      "costToAppear": [500, 5000]
+    },
+    {
+      "industry": "Health & Wellness",
+      "audienceSize": [1000, 20000],
+      "engagementRate": [0.04, 0.08],
+      "conversionRateToLead": [0.05, 0.15],
+      "leadToCustomerRate": [0.10, 0.20],
+      "customerValue": [100, 2500],
+      "costToAppear": [300, 2000]
+    },
+    {
+      "industry": "Finance & Investing",
+      "audienceSize": [5000, 50000],
+      "engagementRate": [0.03, 0.06],
+      "conversionRateToLead": [0.03, 0.12],
+      "leadToCustomerRate": [0.07, 0.12],
+      "customerValue": [500, 10000],
+      "costToAppear": [500, 3000]
+    },
+    {
+      "industry": "Entrepreneurship & Business",
+      "audienceSize": [10000, 100000],
+      "engagementRate": [0.02, 0.05],
+      "conversionRateToLead": [0.05, 0.15],
+      "leadToCustomerRate": [0.10, 0.20],
+      "customerValue": [200, 5000],
+      "costToAppear": [500, 2500]
+    },
+    {
+      "industry": "Marketing & Branding",
+      "audienceSize": [3000, 50000],
+      "engagementRate": [0.05, 0.10],
+      "conversionRateToLead": [0.04, 0.12],
+      "leadToCustomerRate": [0.08, 0.15],
+      "customerValue": [500, 5000],
+      "costToAppear": [500, 3000]
+    },
+    {
+      "industry": "Education & Self-Improvement",
+      "audienceSize": [500, 15000],
+      "engagementRate": [0.05, 0.10],
+      "conversionRateToLead": [0.05, 0.20],
+      "leadToCustomerRate": [0.10, 0.25],
+      "customerValue": [50, 500],
+      "costToAppear": [200, 1500]
+    },
+    {
+      "industry": "Lifestyle & Entertainment",
+      "audienceSize": [1000, 20000],
+      "engagementRate": [0.03, 0.08],
+      "conversionRateToLead": [0.03, 0.10],
+      "leadToCustomerRate": [0.05, 0.10],
+      "customerValue": [100, 1000],
+      "costToAppear": [100, 2000]
+    },
+    {
+      "industry": "Food & Beverage",
+      "audienceSize": [2000, 30000],
+      "engagementRate": [0.04, 0.07],
+      "conversionRateToLead": [0.03, 0.08],
+      "leadToCustomerRate": [0.05, 0.12],
+      "customerValue": [100, 2500],
+      "costToAppear": [200, 2500]
+    },
+    {
+      "industry": "Real Estate",
+      "audienceSize": [1000, 15000],
+      "engagementRate": [0.04, 0.10],
+      "conversionRateToLead": [0.05, 0.20],
+      "leadToCustomerRate": [0.10, 0.25],
+      "customerValue": [500, 10000],
+      "costToAppear": [300, 3000]
+    },
+    {
+      "industry": "Travel & Hospitality",
+      "audienceSize": [500, 10000],
+      "engagementRate": [0.03, 0.06],
+      "conversionRateToLead": [0.02, 0.08],
+      "leadToCustomerRate": [0.05, 0.10],
+      "customerValue": [100, 1000],
+      "costToAppear": [200, 1500]
+    },
+    {
+      "industry": "Legal & Law",
+      "audienceSize": [1000, 15000],
+      "engagementRate": [0.04, 0.07],
+      "conversionRateToLead": [0.05, 0.12],
+      "leadToCustomerRate": [0.10, 0.20],
+      "customerValue": [1000, 15000],
+      "costToAppear": [500, 3000]
+    },
+    {
+      "industry": "Nonprofit & Advocacy",
+      "audienceSize": [500, 8000],
+      "engagementRate": [0.05, 0.12],
+      "conversionRateToLead": [0.05, 0.20],
+      "leadToCustomerRate": [0.05, 0.15],
+      "customerValue": [25, 500],
+      "costToAppear": [100, 1500]
+    },
+    {
+      "industry": "Fashion & Beauty",
+      "audienceSize": [3000, 25000],
+      "engagementRate": [0.05, 0.09],
+      "conversionRateToLead": [0.04, 0.10],
+      "leadToCustomerRate": [0.05, 0.12],
+      "customerValue": [50, 1000],
+      "costToAppear": [300, 2000]
+    },
+    {
+      "industry": "Home Improvement & DIY",
+      "audienceSize": [1000, 20000],
+      "engagementRate": [0.03, 0.08],
+      "conversionRateToLead": [0.04, 0.12],
+      "leadToCustomerRate": [0.05, 0.15],
+      "customerValue": [100, 5000],
+      "costToAppear": [200, 2000]
+    },
+    {
+      "industry": "Automotive",
+      "audienceSize": [2000, 30000],
+      "engagementRate": [0.03, 0.06],
+      "conversionRateToLead": [0.02, 0.10],
+      "leadToCustomerRate": [0.05, 0.10],
+      "customerValue": [500, 10000],
+      "costToAppear": [500, 3000]
+    }
+  ]

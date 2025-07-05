@@ -1,0 +1,101 @@
+[
+    {
+      "platform": "Instagram Stories",
+      "follower_range": "1K-10K",
+      "min_followers": 1000,
+      "max_followers": 10000,
+      "reach_rate": [0.10, 0.20],
+      "ctr": [0.03, 0.06],
+      "cvr": [0.02, 0.05]
+    },
+    {
+      "platform": "Instagram Stories",
+      "follower_range": "10K-100K",
+      "min_followers": 10000,
+      "max_followers": 100000,
+      "reach_rate": [0.05, 0.10],
+      "ctr": [0.02, 0.04],
+      "cvr": [0.015, 0.03]
+    },
+    {
+      "platform": "Instagram Stories",
+      "follower_range": "100K+",
+      "min_followers": 100000,
+      "max_followers": 200000,
+      "reach_rate": [0.03, 0.06],
+      "ctr": [0.01, 0.03],
+      "cvr": [0.005, 0.02]
+    },
+    {
+      "platform": "TikTok Posts",
+      "follower_range": "1K-10K",
+      "min_followers": 1000,
+      "max_followers": 10000,
+      "reach_rate": [0.15, 0.35],
+      "ctr": [0.015, 0.03],
+      "cvr": [0.01, 0.03]
+    },
+    {
+      "platform": "TikTok Posts",
+      "follower_range": "10K-100K",
+      "min_followers": 10000,
+      "max_followers": 100000,
+      "reach_rate": [0.12, 0.30],
+      "ctr": [0.012, 0.025],
+      "cvr": [0.008, 0.02]
+    },
+    {
+      "platform": "TikTok Posts",
+      "follower_range": "100K+",
+      "min_followers": 100000,
+      "max_followers": 200000,
+      "reach_rate": [0.10, 0.25],
+      "ctr": [0.01, 0.02],
+      "cvr": [0.005, 0.015]
+    },
+    {
+        "platform": "Facebook Stories",
+        "follower_range": "1K-10K",
+        "min_followers": 1000,
+        "max_followers": 10000,
+        "reach_rate": [0.02, 0.05],
+        "ctr": [0.015, 0.03],
+        "cvr": [0.015, 0.03]
+      },
+    {
+      "platform": "Facebook Stories",
+      "follower_range": "10K-100K",
+      "min_followers": 10000,
+      "max_followers": 100000,
+      "reach_rate": [0.03, 0.07],
+      "ctr": [0.015, 0.03],
+      "cvr": [0.015, 0.03]
+    },
+    {
+      "platform": "Facebook Stories",
+      "follower_range": "100K+",
+      "min_followers": 100000,
+      "max_followers": 200000,
+      "reach_rate": [0.02, 0.05],
+      "ctr": [0.01, 0.02],
+      "cvr": [0.005, 0.015]
+    },
+    {
+      "platform": "YouTube Shorts",
+      "follower_range": "10K-100K",
+      "min_followers": 10000,
+      "max_followers": 100000,
+      "reach_rate": [0.10, 0.40],
+      "ctr": [0.01, 0.025],
+      "cvr": [0.008, 0.02]
+    },
+    {
+      "platform": "YouTube Shorts",
+      "follower_range": "100K+",
+      "min_followers": 100000,
+      "max_followers": 200000,
+      "reach_rate": [0.05, 0.30],
+      "ctr": [0.005, 0.015],
+      "cvr": [0.005, 0.015]
+    }
+  ]

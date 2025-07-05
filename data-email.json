@@ -1,0 +1,282 @@
+[
+    {
+        "industry": "E-Commerce",
+        "open_rate": [0.15, 0.25],
+        "ctr": [0.01, 0.05],
+        "conversion_rate": [0.005, 0.03],
+        "cps": [3, 7],
+        "arps": [50, 150],
+        "ltv": [200, 1000],
+        "subscriber_lifespan_years": [1, 2]
+      },
+      {
+        "industry": "SaaS",
+        "open_rate": [0.20, 0.30],
+        "ctr": [0.03, 0.07],
+        "conversion_rate": [0.01, 0.05],
+        "cps": [5, 10],
+        "arps": [300, 1200],
+        "ltv": [1000, 10000],
+        "subscriber_lifespan_years": [2, 5]
+      },
+      {
+        "industry": "B2B Services",
+        "open_rate": [0.15, 0.25],
+        "ctr": [0.02, 0.06],
+        "conversion_rate": [0.005, 0.02],
+        "cps": [4, 8],
+        "arps": [100, 500],
+        "ltv": [1000, 5000],
+        "subscriber_lifespan_years": [2, 4]
+      },
+      {
+        "industry": "Publishing / Media",
+        "open_rate": [0.25, 0.35],
+        "ctr": [0.03, 0.08],
+        "conversion_rate": [0.005, 0.03],
+        "cps": [1, 4],
+        "arps": [50, 150],
+        "ltv": [100, 500],
+        "subscriber_lifespan_years": [1, 3]
+      },
+      {
+        "industry": "Nonprofits",
+        "open_rate": [0.20, 0.30],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.05],
+        "cps": [2, 5],
+        "arps": [20, 100],
+        "ltv": [50, 500],
+        "subscriber_lifespan_years": [1, 4]
+      },
+      {
+        "industry": "Retail / Consumer Goods",
+        "open_rate": [0.18, 0.25],
+        "ctr": [0.02, 0.06],
+        "conversion_rate": [0.01, 0.05],
+        "cps": [3, 7],
+        "arps": [30, 100],
+        "ltv": [100, 500],
+        "subscriber_lifespan_years": [1, 2]
+      },
+      {
+        "industry": "Real Estate",
+        "open_rate": [0.20, 0.30],
+        "ctr": [0.03, 0.07],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [3, 6],
+        "arps": [500, 1000],
+        "ltv": [5000, 10000],
+        "subscriber_lifespan_years": [3, 5]
+      },
+      {
+        "industry": "Healthcare",
+        "open_rate": [0.23, 0.35],
+        "ctr": [0.02, 0.06],
+        "conversion_rate": [0.02, 0.04],
+        "cps": [4, 9],
+        "arps": [100, 300],
+        "ltv": [500, 2000],
+        "subscriber_lifespan_years": [2, 4]
+      },
+      {
+        "industry": "Education",
+        "open_rate": [0.25, 0.40],
+        "ctr": [0.03, 0.07],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [2, 5],
+        "arps": [50, 200],
+        "ltv": [200, 1000],
+        "subscriber_lifespan_years": [1, 3]
+      },
+      {
+        "industry": "Finance / Insurance",
+        "open_rate": [0.20, 0.30],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.02, 0.04],
+        "cps": [5, 10],
+        "arps": [200, 1000],
+        "ltv": [1000, 5000],
+        "subscriber_lifespan_years": [2, 5]
+      },
+      {
+        "industry": "Travel / Hospitality",
+        "open_rate": [0.18, 0.28],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [3, 7],
+        "arps": [100, 500],
+        "ltv": [500, 2000],
+        "subscriber_lifespan_years": [1, 3]
+      },
+      {
+        "industry": "Marketing / Advertising",
+        "open_rate": [0.17, 0.27],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [4, 8],
+        "arps": [100, 400],
+        "ltv": [400, 2000],
+        "subscriber_lifespan_years": [1, 3]
+      },
+      {
+        "industry": "Legal Services",
+        "open_rate": [0.20, 0.30],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [5, 10],
+        "arps": [200, 800],
+        "ltv": [1000, 4000],
+        "subscriber_lifespan_years": [2, 4]
+      },
+      {
+        "industry": "Automotive",
+        "open_rate": [0.18, 0.28],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [4, 9],
+        "arps": [150, 600],
+        "ltv": [800, 3000],
+        "subscriber_lifespan_years": [1, 3]
+      },
+      {
+        "industry": "Entertainment / Events",
+        "open_rate": [0.20, 0.35],
+        "ctr": [0.03, 0.07],
+        "conversion_rate": [0.01, 0.04],
+        "cps": [2, 6],
+        "arps": [50, 200],
+        "ltv": [200, 800],
+        "subscriber_lifespan_years": [1, 2]
+      },
+      {
+        "industry": "Beauty / Personal Care",
+        "open_rate": [0.18, 0.28],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [3, 7],
+        "arps": [30, 100],
+        "ltv": [100, 500],
+        "subscriber_lifespan_years": [1, 2]
+      },
+      {
+        "industry": "Government",
+        "open_rate": [0.30, 0.45],
+        "ctr": [0.03, 0.08],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [2, 5],
+        "arps": [20, 100],
+        "ltv": [100, 500],
+        "subscriber_lifespan_years": [2, 4]
+      },
+      {
+        "industry": "Technology / IT",
+        "open_rate": [0.18, 0.28],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.04],
+        "cps": [4, 9],
+        "arps": [100, 500],
+        "ltv": [500, 2000],
+        "subscriber_lifespan_years": [2, 4]
+      },
+      {
+        "industry": "Education / Online Courses",
+        "open_rate": [0.25, 0.40],
+        "ctr": [0.03, 0.07],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [2, 5],
+        "arps": [50, 200],
+        "ltv": [200, 1000],
+        "subscriber_lifespan_years": [1, 3]
+      },
+      {
+        "industry": "Food & Beverage",
+        "open_rate": [0.20, 0.30],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [3, 7],
+        "arps": [30, 100],
+        "ltv": [100, 500],
+        "subscriber_lifespan_years": [1, 2]
+      },
+      {
+        "industry": "Insurance",
+        "open_rate": [0.20, 0.30],
+        "ctr": [0.02, 0.06],
+        "conversion_rate": [0.01, 0.04],
+        "cps": [5, 10],
+        "arps": [200, 1000],
+        "ltv": [1000, 5000],
+        "subscriber_lifespan_years": [2, 5]
+      },
+      {
+        "industry": "Mortgage",
+        "open_rate": [0.18, 0.28],
+        "ctr": [0.02, 0.05],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [5, 12],
+        "arps": [300, 1500],
+        "ltv": [2000, 8000],
+        "subscriber_lifespan_years": [2, 6]
+      },
+      {
+        "industry": "Education (Traditional)",
+        "open_rate": [0.25, 0.40],
+        "ctr": [0.03, 0.07],
+        "conversion_rate": [0.01, 0.03],
+        "cps": [2, 6],
+        "arps": [100, 500],
+        "ltv": [500, 2000],
+        "subscriber_lifespan_years": [2, 4]
+      },
+      {
+        "industry": "Education (Online Courses)",
+        "open_rate": [0.25, 0.40],
+        "ctr": [0.04, 0.08],
+        "conversion_rate": [0.02, 0.06],
+        "cps": [3, 8],
+        "arps": [100, 400],
+        "ltv": [500, 2000],
+        "subscriber_lifespan_years": [1, 3]
+      },
+      {
+        "industry": "Coaching (Business/Executive)",
+        "open_rate": [0.22, 0.35],
+        "ctr": [0.03, 0.07],
+        "conversion_rate": [0.02, 0.06],
+        "cps": [5, 12],
+        "arps": [300, 1000],
+        "ltv": [1500, 7000],
+        "subscriber_lifespan_years": [1, 3]
+      },
+      {
+        "industry": "Coaching (Health/Lifestyle)",
+        "open_rate": [0.20, 0.35],
+        "ctr": [0.03, 0.08],
+        "conversion_rate": [0.02, 0.05],
+        "cps": [3, 8],
+        "arps": [100, 400],
+        "ltv": [300, 1500],
+        "subscriber_lifespan_years": [1, 2]
+      },
+      {
+        "industry": "Financial Planning",
+        "open_rate": [0.22, 0.32],
+        "ctr": [0.02, 0.06],
+        "conversion_rate": [0.01, 0.04],
+        "cps": [5, 10],
+        "arps": [300, 1200],
+        "ltv": [1000, 6000],
+        "subscriber_lifespan_years": [2, 5]
+      },
+      {
+        "industry": "Personal Development",
+        "open_rate": [0.25, 0.38],
+        "ctr": [0.03, 0.08],
+        "conversion_rate": [0.02, 0.06],
+        "cps": [3, 7],
+        "arps": [100, 400],
+        "ltv": [300, 1500],
+        "subscriber_lifespan_years": [1, 3]
+      }
+  ]

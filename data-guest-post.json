@@ -1,0 +1,153 @@
+[
+    {
+      "industry": "Tech",
+      "referral_traffic_percentage": [20, 40],
+      "conversion_rate": [0.5, 2]
+    },
+    {
+      "industry": "Health & Wellness",
+      "referral_traffic_percentage": [15, 30],
+      "conversion_rate": [1, 4]
+    },
+    {
+      "industry": "Finance & Personal Finance",
+      "referral_traffic_percentage": [10, 25],
+      "conversion_rate": [1, 3]
+    },
+    {
+      "industry": "E-commerce & Retail",
+      "referral_traffic_percentage": [25, 45],
+      "conversion_rate": [2, 5]
+    },
+    {
+      "industry": "Travel & Hospitality",
+      "referral_traffic_percentage": [30, 50],
+      "conversion_rate": [1, 3]
+    },
+    {
+      "industry": "Education & Online Learning",
+      "referral_traffic_percentage": [15, 30],
+      "conversion_rate": [1.5, 4]
+    },
+    {
+      "industry": "B2B (Business-to-Business)",
+      "referral_traffic_percentage": [10, 20],
+      "conversion_rate": [2, 5]
+    },
+    {
+      "industry": "Lifestyle & Personal Development",
+      "referral_traffic_percentage": [20, 35],
+      "conversion_rate": [1, 3]
+    },
+    {
+      "industry": "Legal & Consulting",
+      "referral_traffic_percentage": [5, 15],
+      "conversion_rate": [3, 6]
+    },
+    {
+      "industry": "Real Estate",
+      "referral_traffic_percentage": [15, 30],
+      "conversion_rate": [1, 2]
+    },
+    {
+      "industry": "Automotive",
+      "referral_traffic_percentage": [10, 25],
+      "conversion_rate": [1, 3]
+    },
+    {
+      "industry": "Food & Beverage",
+      "referral_traffic_percentage": [20, 35],
+      "conversion_rate": [2, 4]
+    },
+    {
+      "industry": "Fashion & Beauty",
+      "referral_traffic_percentage": [25, 45],
+      "conversion_rate": [2, 5]
+    },
+    {
+      "industry": "Home & Garden",
+      "referral_traffic_percentage": [15, 30],
+      "conversion_rate": [2, 4]
+    },
+    {
+      "industry": "Entertainment & Media",
+      "referral_traffic_percentage": [25, 40],
+      "conversion_rate": [1, 3]
+    },
+    {
+      "industry": "Nonprofits",
+      "referral_traffic_percentage": [10, 20],
+      "conversion_rate": [2, 6]
+    },
+    {
+      "industry": "Software as a Service (SaaS)",
+      "referral_traffic_percentage": [20, 40],
+      "conversion_rate": [1, 4]
+    },
+    {
+      "industry": "Gaming",
+      "referral_traffic_percentage": [20, 35],
+      "conversion_rate": [1, 2]
+    },
+    {
+      "industry": "Insurance",
+      "referral_traffic_percentage": [10, 20],
+      "conversion_rate": [2, 4]
+    },
+    {
+      "industry": "Telecommunications",
+      "referral_traffic_percentage": [10, 25],
+      "conversion_rate": [1, 3]
+    },
+    {
+      "industry": "Agriculture & Farming",
+      "referral_traffic_percentage": [5, 15],
+      "conversion_rate": [1, 3]
+    },
+    {
+      "industry": "Construction",
+      "referral_traffic_percentage": [10, 20],
+      "conversion_rate": [1, 2.5]
+    },
+    {
+      "industry": "Human Resources & Recruitment",
+      "referral_traffic_percentage": [10, 25],
+      "conversion_rate": [2, 5]
+    },
+    {
+      "industry": "Energy & Utilities",
+      "referral_traffic_percentage": [5, 15],
+      "conversion_rate": [0.5, 2]
+    },
+    {
+      "industry": "Events & Conferences",
+      "referral_traffic_percentage": [25, 50],
+      "conversion_rate": [3, 6]
+    },
+    {
+      "industry": "Arts & Crafts",
+      "referral_traffic_percentage": [20, 35],
+      "conversion_rate": [1.5, 4]
+    },
+    {
+      "industry": "Sports & Fitness",
+      "referral_traffic_percentage": [15, 30],
+      "conversion_rate": [2, 4]
+    },
+    {
+      "industry": "Pet Care & Veterinary",
+      "referral_traffic_percentage": [15, 30],
+      "conversion_rate": [2, 3.5]
+    },
+    {
+      "industry": "Photography & Videography",
+      "referral_traffic_percentage": [20, 40],
+      "conversion_rate": [2, 5]
+    },
+    {
+      "industry": "Logistics & Supply Chain",
+      "referral_traffic_percentage": [5, 15],
+      "conversion_rate": [1, 2]
+    }
+  ]
+  
